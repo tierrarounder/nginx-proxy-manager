@@ -22,7 +22,7 @@
 		"moment": "^2.24.0",
 		"mysql": "^2.18.1",
 		"node-rsa": "^1.0.8",
-		"nodemon": "^2.0.2",
+		"nodemon": "^2.0.15",
 		"objection": "^2.2.16",
 		"path": "^0.12.7",
 		"signale": "^1.4.0",
