@@ -17,7 +17,7 @@
 		"json-schema-ref-parser": "^8.0.0",
 		"jsonwebtoken": "^8.5.1",
 		"knex": "^0.20.13",
-		"liquidjs": "^9.11.10",
+		"liquidjs": "^9.37.0",
 		"lodash": "^4.17.21",
 		"moment": "^2.24.0",
 		"mysql": "^2.18.1",
