@@ -341,7 +341,7 @@
     "is-regex": "^1.1.1",
     "is-resolvable": "^1.1.0",
     "is-stream": "^2.0.0",
-    "is-svg": "^4.2.1",
+    "is-svg": "^4.4.0",
     "is-symbol": "^1.0.3",
     "is-typedarray": "^1.0.0",
     "is-windows": "^1.0.2",
