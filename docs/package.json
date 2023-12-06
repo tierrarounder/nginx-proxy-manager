@@ -155,7 +155,7 @@
     "cyclist": "^1.0.1",
     "dashdash": "^1.14.1",
     "de-indent": "^1.0.2",
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "decamelize": "^4.0.0",
     "decode-uri-component": "^0.2.0",
     "deep-equal": "^2.0.3",
