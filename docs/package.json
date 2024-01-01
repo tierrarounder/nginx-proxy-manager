@@ -235,7 +235,7 @@
     "find-cache-dir": "^3.3.1",
     "find-up": "^4.1.0",
     "flush-write-stream": "^2.0.0",
-    "follow-redirects": "^1.12.1",
+    "follow-redirects": "^1.15.4",
     "for-in": "^1.0.2",
     "foreach": "^2.0.5",
     "forever-agent": "^0.6.1",
