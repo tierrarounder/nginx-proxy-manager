@@ -623,7 +623,7 @@
     "sitemap": "^6.2.0",
     "slash": "^3.0.0",
     "smoothscroll-polyfill": "^0.4.4",
-    "snapdragon": "^0.12.0",
+    "snapdragon": "^0.12.1",
     "snapdragon-node": "^3.0.0",
     "snapdragon-util": "^5.0.1",
     "sockjs": "^0.3.21",
