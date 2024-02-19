@@ -312,7 +312,7 @@
     "internal-ip": "^6.1.0",
     "invariant": "^2.2.4",
     "invert-kv": "^3.0.1",
-    "ip": "^1.1.5",
+    "ip": "^1.1.9",
     "ip-regex": "^4.1.0",
     "ipaddr.js": "^1.9.1",
     "is-absolute-url": "^3.0.3",
