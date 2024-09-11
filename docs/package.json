@@ -489,7 +489,7 @@
     "path-is-inside": "^1.0.2",
     "path-key": "^3.1.1",
     "path-parse": "^1.0.6",
-    "path-to-regexp": "^6.1.0",
+    "path-to-regexp": "^8.0.0",
     "path-type": "^4.0.0",
     "pbkdf2": "^3.1.1",
     "performance-now": "^2.1.0",
