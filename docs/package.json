@@ -89,7 +89,7 @@
     "caniuse-lite": "^1.0.30001111",
     "caseless": "^0.12.0",
     "chalk": "^4.1.0",
-    "chokidar": "^3.4.1",
+    "chokidar": "^4.0.0",
     "chownr": "^2.0.0",
     "chrome-trace-event": "^1.0.2",
     "ci-info": "^2.0.0",
