@@ -133,7 +133,7 @@
     "create-hash": "^1.2.0",
     "create-hmac": "^1.1.7",
     "cross-spawn": "^7.0.3",
-    "crypto-browserify": "^3.12.0",
+    "crypto-browserify": "^3.12.1",
     "css": "^3.0.0",
     "css-color-names": "^1.0.1",
     "css-declaration-sorter": "^5.1.2",
