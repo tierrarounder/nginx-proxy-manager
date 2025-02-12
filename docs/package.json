@@ -258,7 +258,7 @@
     "glob-to-regexp": "^0.4.1",
     "global": "^4.4.0",
     "globals": "^13.1.0",
-    "globby": "^11.0.1",
+    "globby": "^14.1.0",
     "good-listener": "^1.2.2",
     "graceful-fs": "^4.2.4",
     "gray-matter": "^4.0.2",
